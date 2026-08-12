@@ -42,8 +42,8 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 1 Preview (Raw Messy Data):**
 > 
-> ![Phase 1 - Messy Data](assets/messy_data.png)  
-> *(Replace `assets/messy_data.png` with your Messy Data screenshot link/path)*
+> ![Phase 1 - Messy Data](Messy_DatasetScreenshot.PNG)
+
 
 
 
@@ -54,7 +54,7 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 2 Preview (Cleaned Data):**
 > 
-> ![Phase 2 - Cleaned Data](assets/cleaned_data.png)  
+> ![Phase 2 - Cleaned Data](Cleaned_DatasetScreenshot.PNG)  
 > *(Replace `assets/cleaned_data.png` with your Cleaned Data screenshot link/path)*
 
 
