@@ -42,7 +42,7 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 1 Preview (Raw Messy Data):**
 > 
-> ![Phase 1 - Messy Data](Messy_DatasetScreenshot.PNG)
+> ![Phase 1 - Messy Data](Messy_Dataset Screenshot.PNG)
 
 
 
