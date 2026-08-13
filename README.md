@@ -54,7 +54,7 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 2 Preview (Cleaned Data):**
 > 
-> ![Phase 2 - Cleaned Data](Cleaned_DatasetScreenshot.PNG)  
+> ![Phase 2 - Cleaned Data](HR-Analysis-Dashboard(Excel)/Cleaned_Dataset Screenshot.PNG)  
 > *(Replace `assets/cleaned_data.png` with your Cleaned Data screenshot link/path)*
 
 
