@@ -66,7 +66,7 @@ Designed an interactive dark-themed dashboard with an intuitive left-side naviga
 * Highlights core KPIs: **Average Tenure (1.34 years)**, **Completed Training**, **Total Terminations (1,606)**, and **Average Satisfaction Score (3.02)**.
 * Includes **Average Tenure by Department**, **Turnover Breakdown by Termination Type**, and **Turnover Trend Over Time (2018–2023)**.
 
-> ![Dashboard Page 1 - Overview](assets/Messy_Dataset Screenshot.PNG)  
+> ![Dashboard Page 1 - Overview](HR_Dashboard1stPg.PNG)  
 > *(Replace `assets/dashboard_pg1.png` with your Dashboard Page 1 screenshot link/path)*
 
 
