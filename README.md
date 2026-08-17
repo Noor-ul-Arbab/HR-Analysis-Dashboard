@@ -42,7 +42,7 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 1 Preview (Raw Messy Data):**
 > 
-> ![Phase 1 - Messy Data](Messy_DatasetScreenshot.png)
+> ![Phase 1 - Messy Data](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/Messy_Dataset%20Screenshot.PNG)
 
 
 
@@ -54,8 +54,8 @@ This repository showcases an end-to-end Data Analytics workflow designed to clea
 
 > **Phase 2 Preview (Cleaned Data):**
 > 
-> ![Phase 2 - Cleaned Data](HR-Analysis-Dashboard(Excel)/Cleaned_Dataset Screenshot.PNG)  
-> *(Replace `assets/cleaned_data.png` with your Cleaned Data screenshot link/path)*
+> ![Phase 2 - Cleaned Data](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/Cleaned_Dataset%20Screenshot.PNG)
+
 
 
 
@@ -66,32 +66,32 @@ Designed an interactive dark-themed dashboard with an intuitive left-side naviga
 * Highlights core KPIs: **Average Tenure (1.34 years)**, **Completed Training**, **Total Terminations (1,606)**, and **Average Satisfaction Score (3.02)**.
 * Includes **Average Tenure by Department**, **Turnover Breakdown by Termination Type**, and **Turnover Trend Over Time (2018–2023)**.
 
-> ![Dashboard Page 1 - Overview](HR_Dashboard1stPg.PNG)  
-> *(Replace `assets/dashboard_pg1.png` with your Dashboard Page 1 screenshot link/path)*
+> ![Dashboard Page 1 - Overview](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/HR_Dashboard%201st%20Pg.PNG)  
+
 
 
 
 #### **2. Training Analytics**
 * Analyzes **Training Cost & Duration by Program**, **Training Spend by Business Unit**, and **Training Outcome Breakdown (Internal vs. External)**.
 
-> ![Dashboard Page 2 - Training](assets/dashboard_pg2.png)  
-> *(Replace `assets/dashboard_pg2.png` with your Dashboard Page 2 screenshot link/path)*
+> ![Dashboard Page 2 - Training](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/HR_Dashboard%20Pg%202.PNG)  
+
 
 
 
 #### **3. Workforce Dynamics**
 * Displays **Gender Diversity by Job Function**, **Turnover Trends by Quarter**, and **Employee Distribution by Employment Type & Department**.
 
-> ![Dashboard Page 3 - Workforce](assets/dashboard_pg3.png)  
-> *(Replace `assets/dashboard_pg3.png` with your Dashboard Page 3 screenshot link/path)*
+> ![Dashboard Page 3 - Workforce](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/HR_Dashboard%20Pg%203.PNG)  
+
 
 
 
 #### **4. Performance & Satisfaction**
 * Evaluates **Average Satisfaction Score vs. Engagement Score by Performance Tier** (*Exceeds*, *Fully Meets*, *Needs Improvement*, *PIP*) and **Satisfaction Rating by Pay Zone** (*Zone A*, *Zone B*, *Zone C*).
 
-> ![Dashboard Page 4 - Performance](assets/dashboard_pg4.png)  
-> *(Replace `assets/dashboard_pg4.png` with your Dashboard Page 4 screenshot link/path)*
+> ![Dashboard Page 4 - Performance](https://github.com/Noor-ul-Arbab/HR-Analysis-Dashboard/blob/main/HR_Dashboard%20Pg%204.PNG)  
+
 
 
 
